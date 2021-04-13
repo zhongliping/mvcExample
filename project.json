@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.4",
+  "name": "MVCExample",
+  "id": "9effc2f9-2664-430c-b905-9cbbd0c40a9f",
+  "isNew": false
+}
